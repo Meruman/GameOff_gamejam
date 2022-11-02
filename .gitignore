@@ -75,3 +75,17 @@ DerivedDataCache/*
 *.blend
 Config/DefaultEditor.ini
 Config/DefaultEditor.ini
+Content/AnimStarterPack/*
+Content/CityofBrass_Enemies/*
+Content/Everything_Bundle/*
+Content/Fantastic_Dungeon_Pack/*
+Content/InfinityBladeWarriors/*
+Content/Interface_And_Item_Sounds/*
+Content/LowPolyMedievalConstructions/*
+Content/MCO_Mocap_Basics/*
+Content/sA_PickupSet_1/*
+Content/StylizedWeaponBundle2/*
+Content/Ultimate_Magic_Bundle/*
+Source/*
+Content/Cyberman/*
+Content/UndeadPack/*
