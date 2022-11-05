@@ -98,3 +98,6 @@ Config/DefaultInput.ini
 Config/DefaultEngine.ini
 Config/HoloLens/HoloLensEngine.ini
 Content/Blueprints/Characters/MainHeroe/Animations/*
+Content/FirstPerson/*
+Content/FirstPersonArms/*
+Content/FPWeapon/*
