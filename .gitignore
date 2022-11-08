@@ -102,5 +102,10 @@ Content/FirstPerson/*
 Content/FirstPersonArms/*
 Content/FPWeapon/*
 Content/Blueprints/Maps/Level_Architect/*
+Content/DreamScapeSeries/*
+Content/Megascans/*
+Content/MSPresets/*
+Content/*.uasset
+Content/*.umap
 Content/Blueprints/Actors/BaseClasses/BP_Projectile.uasset
 Content/Blueprints/Maps/Level_Architect/LevelModules_Database.uasset
