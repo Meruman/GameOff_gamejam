@@ -107,5 +107,7 @@ Content/Megascans/*
 Content/MSPresets/*
 Content/*.uasset
 Content/*.umap
+Content/InfinityBladeEffects/*
+Content/Magic_Circle_Creator/*
 Content/Blueprints/Actors/BaseClasses/BP_Projectile.uasset
 Content/Blueprints/Maps/Level_Architect/LevelModules_Database.uasset
