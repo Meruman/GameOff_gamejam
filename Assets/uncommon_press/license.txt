@@ -1,0 +1,11 @@
+Model Information:
+* title:	Uncommon Press
+* source:	https://sketchfab.com/3d-models/uncommon-press-e2e5f953924e4e9aacc3c29f6194bf34
+* author:	arboo (https://sketchfab.com/arboo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Uncommon Press" (https://sketchfab.com/3d-models/uncommon-press-e2e5f953924e4e9aacc3c29f6194bf34) by arboo (https://sketchfab.com/arboo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
